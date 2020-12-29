@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TechPlanet</string>
+    <string name="server_id">28314333195-bv76cbrlkj5bkp1d8u7i1ntmij5v31lv.apps.googleusercontent.com</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="notifications_admin_channel_name">channel_1</string>
+    <string name="notifications_admin_channel_description">admin_channel</string>
+</resources>

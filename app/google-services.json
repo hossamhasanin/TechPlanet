@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "342882488631",
+    "firebase_url": "https://techplanet-9f5b1.firebaseio.com",
+    "project_id": "techplanet-9f5b1",
+    "storage_bucket": "techplanet-9f5b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342882488631:android:cabac0fedb8bf813",
+        "android_client_info": {
+          "package_name": "com.hasanin.hossam.techplanet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "342882488631-6dk82b66umd4kd12ueke6vunc6jjmn7s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hasanin.hossam.techplanet",
+            "certificate_hash": "7520bb4d0a6e38e2f870f95a0a6e42c4c307dc6b"
+          }
+        },
+        {
+          "client_id": "342882488631-eu341hp77uibf0gjvtqhfrgsls499gph.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7g44n5vkkZENyE7KpTD77CZJUKUSHKJo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "342882488631-eu341hp77uibf0gjvtqhfrgsls499gph.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
